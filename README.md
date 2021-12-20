@@ -4,7 +4,7 @@ Let me introduce myself first, My name is Musawir Bullo; I was born and raised i
 Loving Computer Science started off as a fantasy and then possibly dreaming about becoming the best Software Developer. 
 
 
----> I'm a full time Software developer. Currently Engaged in JAVA & Python. Learning many new and up to date languages so that my generation doesn't laugh at me :D
+---> I'm a full time Software developer. Currently Engaged in JAVASCRIPT & Python. Learning many new and up to date languages so that my generation doesn't laugh at me :D
 
 
 ---> My experiences are that I started off as creating Hack Tools/MODS for community gamers. Some 2d games too.
